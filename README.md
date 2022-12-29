@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan De Dios 
 - 🏡 I from Perú 
-- 🎓 I studied at [Federico Villareal University](https://web2.unfv.edu.pe/) and at Cibertec Institute https://www.cibertec.edu.pe/
+- 🎓 I studied at [Federico Villareal University](https://web2.unfv.edu.pe/) and at [Cibertec Institute](https://www.cibertec.edu.pe/)
 - 👀 I’m interested in Software Testing, Training in Test Automation,Basic Programming and Azure DevOps
 - 🌱 I’m currently learning Test Automation with Rest Assured, Selenium, Appium and Postman. Also, Continuous Integration, OWASP ZAP for Security Testing.
 - 💞️ I’m looking to collaborate on Test Automation Project
